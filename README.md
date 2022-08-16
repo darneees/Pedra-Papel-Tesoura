@@ -1,6 +1,6 @@
 ![ IMAGEM MERAMENTE ILUSTRATIVA ](https://user-images.githubusercontent.com/79709843/184986015-d35ae08a-a702-49ae-a99c-75a1ff057279.jpg)
 
-<h1 align="center">
+<h1>
 :pencil: Descrição/Detalhes do jogo
 </h1>
 
@@ -13,14 +13,19 @@
 Notepad++ e etc...
 </p>
 
-<h2 align="center">
+<h2>
 
 Boa diversão! :wink::computer:
   
 </h2>
+
+## ✔️ Tecnologias utilizadas  ✔️
+- ``C``
 
 <h3 align="center">
 
   :construction: PROJETO FINALIZADO :construction:
   
 </h3>
+
+
