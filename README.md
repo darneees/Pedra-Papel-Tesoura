@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  Jogo feito inteiramente em C com o intuito de se divertir no tempo livre ( projeto acadêmico ).
+  Jogo feito em C e JAVA com o intuito de te divertir no tempo livre ( projeto acadêmico ).
   
 - `Funcionalidade`: Ele basicamente consistem em você e a maquina fazer uma escolha de < 0 a 2 > ( uma escolha dentre 3 numeros )
 - `Copiar/Colar`: ele pode ser facilmente copiado, pra que assim possa ser usado na plataforma da sua esolha seja: Vscode, Sublime,
@@ -21,6 +21,7 @@ Boa diversão! :wink::computer:
 
 ## ✔️ Tecnologias utilizadas  ✔️
 - ``C``
+- ``JAVA``
 
 <h3 align="center">
 
